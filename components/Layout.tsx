@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import styles from '@styles/layout.module.css'
 
-export const siteTitle = 'Next.js Sample Website'
+export const siteTitle = 'Next.js TypeScript'
 
 export default function Layout({ children }: { children: React.ReactNode }): JSX.Element {
   return (
